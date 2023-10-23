@@ -33,7 +33,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a (Studient) Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a (Student) Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :telescope: I’m studying the Web Development Degree.
 
