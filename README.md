@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-### Hi there 👋
+ Hi there 👋
 </div>
 
 <div id="badges" align="center">
