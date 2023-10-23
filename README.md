@@ -35,6 +35,13 @@
 
 I am a (Studient) Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+
 <!--
 **Voltriixz/Voltriixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
