@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   
-### :woman_technologist:  Hi there 👋
+###   Hi there 👋
 
 </div>
 
