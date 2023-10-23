@@ -55,6 +55,15 @@ I am a (Studient) Full Stack Developer <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+
+
+
+
+
 <!--
 **Voltriixz/Voltriixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
