@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<div>
+<div align=center>
   <a>
     <img src="https://komarev.com/ghpvc/?username=Voltriixz&style=flat-square&color=blue" alt="Voltriixz Profile Views"/>
   </a>
