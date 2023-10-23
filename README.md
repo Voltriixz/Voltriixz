@@ -20,6 +20,12 @@
   </a>
 </div>
 
+<div>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Voltriixz&style=flat-square&color=blue" alt="Voltriixz Profile Views"/>
+  </a>
+</div>
+
 <!--
 **Voltriixz/Voltriixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
