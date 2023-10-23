@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/pudgypenguins-data-code-coding-SHjOSDkKZ18qOHA5B5)" width="100"/>
+  <img src="https://giphy.com/stickers/pudgypenguins-data-code-coding-SHjOSDkKZ18qOHA5B5" width="100"/>
 </div>
 
 <!--
