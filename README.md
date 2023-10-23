@@ -33,6 +33,8 @@
 
 ### :woman_technologist: About Me :
 
+I am a (Studient) Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+
 <!--
 **Voltriixz/Voltriixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
