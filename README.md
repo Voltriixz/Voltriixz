@@ -29,11 +29,11 @@
 
 ### :woman_technologist: About Me :
 
-I am a (Student) Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a DAW Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :telescope: I’m studying the Web Development Degree.
 
-- :seedling: Trying to improve my development skills.
+- :seedling: Trying to improve my development skills, to expand my knowledge and grow as a developer.
 
 - :zap: In my free time, I learn new technologies and read tech articles.
 
