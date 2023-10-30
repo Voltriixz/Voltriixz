@@ -60,6 +60,8 @@ I am a DAW Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltriixz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/68UxtmtQa5wiUa0sbpPvgd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <!--
 **Voltriixz/Voltriixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
